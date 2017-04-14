@@ -1,2 +1,2 @@
 # hello-world
-Just the repository
+This is the first use GitHub of me!
